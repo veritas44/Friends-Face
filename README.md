@@ -5,7 +5,7 @@ _This app is based on Toffeed by JakeLane (https://github.com/JakeLane/Toffeed).
  
 <img src="http://i.imgur.com/VctN6iC.png"> </p>
 
-[![MaterialFBook on fdroid.org](http://i.imgur.com/nyp9kHq.png "Download from fdroid.org")](https://f-droid.org/app/me.zeeroooo.materialfb) [![MaterialFBook on xda labs](http://i.imgur.com/yQrfgN8.png "Download from xda labs")](https://labs.xda-developers.com/store/app/me.zeerooo.materialfb)
+
 
 ## Changelog
 
